@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = plath.philipp@gmail.com
+	name = Philipp Bruns
